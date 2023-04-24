@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+E:\1 - Pessoal\Curso de dev web\HTML-CSS\exercicios\.metadata\.plugins\org.eclipse.jdt.core
-893496345.index
